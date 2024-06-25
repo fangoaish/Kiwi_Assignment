@@ -15,15 +15,15 @@ It aims to optimize driver performance and customer satisfaction by analyzing da
 These three datasets are provided to investigate:
 
 ### data/driver_ids.csv 
-- ***driver_id***: Unique identifier for a driver 
-- ***driver_onboard_date***: Date on which driver was onboarded 
+- **driver_id**: Unique identifier for a driver 
+- **driver_onboard_date**: Date on which driver was onboarded 
 ### data/ride_ids.csv 
-- ***driver_id***: Unique identifier for a driver 
-- ***ride_id***: Unique identifier for a ride that the driver completed 
-- ***ride_distance***: Ride distance in meters 
-- ***ride_duration***: Ride durations in seconds 
-- ***ride_prime_time***: PrimeTime applied on the ride 
+- **driver_id**: Unique identifier for a driver 
+- **ride_id**: Unique identifier for a ride that the driver completed 
+- **ride_distance**: Ride distance in meters 
+- **ride_duration**: Ride durations in seconds 
+- **ride_prime_time**: PrimeTime applied on the ride 
 ### data/ride_timestamps.csv 
-- ***ride_id***: Unique identifier for a ride 
-- ***event***: event describes the type of event (see below) 
-- ***timestamp***: Time of event 
+- **ride_id**: Unique identifier for a ride 
+- **event**: event describes the type of event (see below) 
+- **timestamps**: Time of event 
