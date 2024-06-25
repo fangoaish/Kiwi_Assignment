@@ -27,3 +27,5 @@ These three datasets are provided to investigate:
 - **ride_id**: Unique identifier for a ride 
 - **event**: event describes the type of event (see below) 
 - **timestamps**: Time of event 
+
+
